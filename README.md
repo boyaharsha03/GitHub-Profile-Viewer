@@ -105,7 +105,3 @@ HTTP Status: `429 Too Many Requests`
 6. The frontend renders the profile card
 
 ---
-
-## 👤 Author
-
-**Harsha** — Built as part of an internship project exploring external API integration, proxy architecture, and server-side security.
